@@ -13,7 +13,7 @@ public class Test2 {
     public void test()
     {
         //dette er en test
-        
+        //hejsa
         
     }
 }
