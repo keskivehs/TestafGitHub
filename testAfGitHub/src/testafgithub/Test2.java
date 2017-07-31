@@ -10,5 +10,8 @@ package testafgithub;
  * @author kjel0737
  */
 public class Test2 {
-    
+    public void test()
+    {
+        //dette er en test
+    }
 }
