@@ -14,6 +14,7 @@ public class Test2 {
     {
         //dette er en test
         //hejsa
+        //bla bla bla
         
     }
 }
